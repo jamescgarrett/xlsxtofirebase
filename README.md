@@ -5,7 +5,7 @@
 1) Generate and download your Firebase private key file [Instructions Here](https://firebase.google.com/docs/admin/setup)
 
 2) Create config JSON file
-```json
+```js
 {
   "credentials": "./path/to/your/private/key-file", // File downloaded in step 1
   "firebase_project_id": "FIREBASE_PROJECT_ID", // can be found in file downloaded in step 1
